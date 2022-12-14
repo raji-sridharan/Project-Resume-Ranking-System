@@ -1,0 +1,8 @@
+flask
+werkzeug
+pdfminer.six
+nltk
+numpy
+requests
+spacy
+six

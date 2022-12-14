@@ -1,0 +1,17 @@
+.card{
+    width: 35%;
+    border: groove;
+    margin: auto;
+    margin-top: 5%;
+    background-color: antiquewhite;
+}
+.table{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    border: groove;
+}
+.alert{
+    width: 80%;
+    margin: auto;
+}
